@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>Set Sign-In Page as Landing Page</name>
+    <key>indexlogin</key>
+    <description>Adds a sign-in menu to your top menu items. You easily set your sign in page as the landing page by dragging the Sign In menu to the first place.</description>
+    <author>Ebenezer Obasi</author>
+    <authorEmail>info@eobasi.com</authorEmail>
+    <authorUrl>http://www.eobasi.com</authorUrl>
+    <developerKey>d7be028d4d1053345e0fd37184e5dadb</developerKey>
+    <build>3</build>
+    <copyright>©2018 All rights reserved.</copyright>
+    <license>OSCL</license>
+    <licenseUrl>http://www.oxwall.org/store/oscl</licenseUrl>
+</plugin>
