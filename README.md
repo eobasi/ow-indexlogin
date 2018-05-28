@@ -59,5 +59,5 @@ Note: This plugin may not work if you have other landing page plugins such as St
  - Minor bugs fixing.
  
  = 1.0 = 
- * Released: November 1, 2018
+ * Released: November 1, 2015
  - Initial release
