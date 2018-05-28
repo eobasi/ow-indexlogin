@@ -1,4 +1,4 @@
-=== Set Sign-In Page as Landing Page ===
+# Set Sign-In Page as Landing Page
 Author: Ebenezer Obasi
 Requires at least: Oxwall 1.5
 Tested up to: Oxwall 1.8.4
@@ -7,14 +7,14 @@ License: OSCL
 License URI: http://www.oxwall.org/store/oscl
 Tags: 	System, Utilities
 
-== Description ==
-Thank you for purchasing Oxwall Set Sign-In Page as Landing Page plugin. Set Sign-In Page as Landing Page is an Oxwall/Skadate plugin that adds a sign-in menu to your top menu items. You easily set your sign in page as the landing page by dragging the Sign In menu to the first place.
+# Description
+Set Sign-In Page as Landing Page is an Oxwall/Skadate plugin that adds a sign-in menu to your top menu items. You easily set your sign in page as the landing page by dragging the Sign In menu to the first place.
 
 This plugin is FREE and we have made it available for you to download from the Oxwall store https://developers.oxwall.com/store/item/1198.
 
 For more information about Oxwall Set Sign-In Page as Landing Page Plugin please go to https://www.eobasi.com/projects/set-sign-in-page-as-landing-page-oxwall-plugin/.
 
-== Installation ==
+# Installation 
 If you are new to Oxwall/Skadate follow this tutorial for steps on how to install Set Sign-In Page as Landing Page plugin on your website https://www.eobasi.com/how-to-install-an-oxwall-plugin-step-by-step-for-beginners/
 
 To setup your landing page:
@@ -25,7 +25,7 @@ To setup your landing page:
 
 Note: This plugin may not work if you have other landing page plugins such as Startpage Pro installed on your website. Disable other landing page plugins before usage.
 
-== Copyright ==
+# Copyright 
  * This software is intended for use with Oxwall Free Community Software http://www.oxwall.org/ and is a proprietary licensed product. 
  * This plugin is licensed under Oxwall Store Commercial License (OSCL). For more information see https://developers.oxwall.com/store/oscl.
 
@@ -46,7 +46,7 @@ Note: This plugin may not work if you have other landing page plugins such as St
  * AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  
- == Changelog ==
+# Changelog 
  
  = 1.4 =
  * Released: May 28, 2018
